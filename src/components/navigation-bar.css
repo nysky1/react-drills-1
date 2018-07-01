@@ -1,5 +1,6 @@
+
 .navigation-bar {
-    float:left;
+    width:100%;
 }
 h1 {
     float:left;
@@ -8,7 +9,6 @@ h1 {
 nav {
     display:block;
     float:left;
-    height:60px;
 }
 nav ul  {
     vertical-align: middle;
@@ -17,4 +17,4 @@ nav li {
     float:left;
     list-style: none;
     padding-right: 10px;
-}
+}   
